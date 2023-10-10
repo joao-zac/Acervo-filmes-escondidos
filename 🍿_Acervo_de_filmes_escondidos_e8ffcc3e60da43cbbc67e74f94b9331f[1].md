@@ -1,6 +1,6 @@
 # 🍿 Acervo de filmes escondidos
 
-### Este Notion tem o intuito de compartilhar filmes que, injustamente, não estão disponíveis gratuitamente e/ou não fáceis são de ser encontrados, assim, democratizando a cultura e tornando mais acessível a experimentação da sétima arte 😉
+### Este documento tem o intuito de compartilhar filmes que, injustamente, não estão disponíveis gratuitamente e/ou não fáceis são de ser encontrados, assim, democratizando a cultura e tornando mais acessível a experimentação da sétima arte 😉
 
 - **Pastas no Drive**
     
