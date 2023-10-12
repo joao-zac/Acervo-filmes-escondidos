@@ -1,6 +1,6 @@
 # 🍿 Acervo de filmes escondidos
 
-### Este documento tem o intuito de compartilhar filmes que, injustamente, não estão disponíveis gratuitamente e/ou não fáceis são de ser encontrados, assim, democratizando a cultura e tornando mais acessível a experimentação da sétima arte 😉
+### Este documento tem o intuito de compartilhar filmes que, injustamente, não estão disponíveis gratuitamente e/ou não são fáceis de ser encontrados, assim, democratizando a cultura e tornando mais acessível a experimentação da sétima arte 😉
 
 - **Pastas no Drive**
     
@@ -18,8 +18,6 @@
     [by: @brunolem0n](https://twitter.com/brunolem0n/status/1669377510780334083)
     
     [by: @acervododrive](https://twitter.com/acervododrive)
-    
-    Dica para pesquisar
     
 - **Letterboxd**
     
